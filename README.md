@@ -1,5 +1,9 @@
 # A-Frame Earth
 
+You can test it live here:  https://supertobi.github.io/aframe-earth-with-moon/
+
+![image](ScreenshotEarthMoon.jpg)
+
 I'm just playing around with A-frame. Not astronomically accurate! 
 
 [A-Frame](https://aframe.io) is a web framework for building virtual reality experiences. 
